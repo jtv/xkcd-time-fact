@@ -126,7 +126,7 @@ def spoil():
         "First Order and new villain %s" % pick_villain(),
         "with help from their new friend %s." % pick_friend(),
         "Rey builds a new lightsaber with a %s blade," % pick_lightsaber(),
-        "and they head out to confront the First Order's new superweapon,"
+        "and they head out to confront the First Order's new superweapon,",
         "the %s," % pick_superweapon(),
         "a space station capable of %s." % pick_capability(),
         "They unexpectedly join forces with their old enemy %s" % pick_enemy(),
